@@ -1,2 +1,2 @@
 # design-patterns-java
-Udemy course code exercise solutions I wrote whilst exploring design patterns
+Udemy course code solutions I wrote whilst exploring design patterns
